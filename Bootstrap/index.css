@@ -1,0 +1,21 @@
+.my-container{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    padding-top: 80px;
+}
+.block{
+    padding-top: 60px;
+    height: 150px;
+background-color: blueviolet;
+}
+.block2{
+    padding-top: 60px;
+    height: 150px;
+    background-color: red;
+}
+.block3{
+    padding-top: 60px;
+    height: 150px;
+    background-color: yellow;
+}
